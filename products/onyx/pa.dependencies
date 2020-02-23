@@ -1,0 +1,86 @@
+[
+    {
+        "remote":       "github",
+        "repository":   "YumeMichi/device_oneplus_onyx",
+        "target_path":  "device/oneplus/onyx",
+        "revision":     "quartz"
+    },
+    {
+        "remote":       "github",
+        "repository":   "YumeMichi/kernel_oneplus_onyx",
+        "target_path":  "kernel/oneplus/onyx",
+        "revision":     "6e51b9ed8503afce666f25662f24af7fa3d2d619"
+    },
+    {
+        "remote":       "github",
+        "repository":   "YumeMichi/proprietary_vendor_oneplus",
+        "target_path":  "vendor/oneplus",
+        "revision":     "lineage-17.1"
+    },
+    {
+        "remote":       "aospa",
+        "repository":   "AOSPA/android_hardware_qcom_audio",
+        "target_path":  "hardware/qcom/audio",
+        "revision":     "quartz-8974"
+    },
+    {
+        "remote":       "aospa",
+        "repository":   "AOSPA/android_hardware_qcom_display",
+        "target_path":  "hardware/qcom/display",
+        "revision":     "quartz-8974"
+    },
+    {
+        "remote":       "aospa",
+        "repository":   "AOSPA/android_hardware_qcom_media",
+        "target_path":  "hardware/qcom/media",
+        "revision":     "quartz-8974"
+    },
+    {
+        "remote":       "aospa",
+        "repository":   "AOSPA/android_hardware_qcom_bt",
+        "target_path":  "hardware/qcom/bt",
+        "revision":     "quartz-legacy"
+    },
+    {
+        "remote":       "aospa",
+        "repository":   "AOSPA/android_packages_apps_Bluetooth",
+        "target_path":  "packages/apps/Bluetooth",
+        "revision":     "quartz-dev"
+    },
+    {
+        "remote":       "aosp",
+        "repository":   "platform/external/wpa_supplicant_8",
+        "target_path":  "external/wpa_supplicant_8",
+        "revision":     "refs/tags/android-10.0.0_r41"
+    },
+    {
+        "remote":       "aospa",
+        "repository":   "AOSPA/android_frameworks_opt_net_wifi",
+        "target_path":  "frameworks/opt/net/wifi",
+        "revision":     "quartz-dev"
+    },
+    {
+        "remote":       "aospa",
+        "repository":   "AOSPA/android_frameworks_av",
+        "target_path":  "frameworks/av",
+        "revision":     "quartz-aosp-wfd"
+    },
+    {
+        "remote":       "github",
+        "repository":   "Jprimero15/android_packages_apps_Snap",
+        "target_path":  "packages/apps/Snap",
+        "revision":     "quartz"
+    },
+    {
+        "remote":       "github",
+        "repository":   "YumeMichi/linaro-arm-eabi-4.9",
+        "target_path":  "prebuilts/gcc/linux-x86/arm/linaro-arm-eabi-4.9",
+        "revision":     "master"
+    },
+    {
+        "remote":       "github",
+        "repository":   "LineageOS/android_packages_resources_devicesettings",
+        "target_path":  "packages/resources/devicesettings",
+        "revision":     "lineage-17.1"
+    }
+]
